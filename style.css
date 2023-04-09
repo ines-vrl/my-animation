@@ -1,0 +1,15 @@
+.cercle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 10px;
+  }
+
+  .animation {
+    background-color: green;
+  }
+
+  #conteneur{
+    width: 15rem;
+  }
